@@ -28,8 +28,6 @@ This project presents the design and analysis of a *Class AB audio amplifier* ca
 ## 📷 Schematic<img width="987" height="569" alt="schematic" src="https://github.com/user-attachments/assets/d6cad2be-b8c4-432c-8bb9-2fac45c88f29" />
 
 
-![Schematics(images/schematic.png)
-
 ---
 
 ## 📊 Performance Summary
