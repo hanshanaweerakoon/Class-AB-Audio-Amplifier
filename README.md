@@ -1,8 +1,7 @@
 
 # 🎧 Class AB Audio Amplifier
 
-This project presents the design and analysis of a *Class AB audio amplifier* capable of delivering high-quality audio output with improved efficiency and minimal distortion. It was developed as part of the EN2111 Electronic Circuit Design course at the University of Moratuwa.
-
+This project presents the design and analysis of a *Class AB audio amplifier* capable of delivering high-quality audio output with improved efficiency and minimal distortion.
 ---
 
 ## 🛠 Features
