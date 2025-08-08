@@ -13,7 +13,7 @@ This project presents the design and analysis of a *Class AB audio amplifier* ca
 - Achieves ~10.5 dB voltage gain
 - Output power: ~7.2W into 8Ω speaker
 - Total Harmonic Distortion (THD): 0.8%
-
+ 
 ---
 
 ## 📁 Project Structure
